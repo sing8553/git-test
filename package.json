@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "descriptiom",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sing8553/git-test.git"
+  },
+  "author": "Sarbjot Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sing8553/git-test/issues"
+  },
+  "homepage": "https://github.com/sing8553/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
